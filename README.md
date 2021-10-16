@@ -4,9 +4,13 @@ Extraction & Analysis of TOTO Results
 A mini-project to analyse 3 years of TOTO Group 1 data.
 
 totocreate.py: create an sqlite database for storing toto data
+
 totoscrape.py: scrape toto results from Singapore Pool's website
+
 toto_all_locations.py: scrape all branches & authorised sellers from Singapore Pool's website
+
 totogeocode.py: geocode addresses into latitude and longitude using Google Maps API
+
 
 
 
